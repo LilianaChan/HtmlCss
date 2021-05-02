@@ -1,0 +1,1 @@
+signo ! despues clicar el tabulador  : genera la estructura basica del doc html
