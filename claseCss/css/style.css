@@ -2,3 +2,15 @@ p {
     color: rgb(69, 30, 210);
     font-size: 40px;
 }
+
+/* tipo de estilo con class */
+
+.parrafo {
+    color: deeppink;
+}
+
+/* ID */
+#texto{
+    color: forestgreen;
+    font-size: 24px;
+}
