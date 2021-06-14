@@ -1,4 +1,6 @@
 .main-nav{
     margin-top: 10px;
     list-style: none; /*remueve puntos de lista desordenada*/
+    padding-left: 0;
+    background-color: aqua; /*cambiar color de fondo*/
 }
