@@ -4,3 +4,6 @@
     padding-left: 0;
     background-color: aqua; /*cambiar color de fondo*/
 }
+.main-nav_item{
+    display: inline-block;
+}
