@@ -7,3 +7,9 @@
 .main-nav_item{
     display: inline-block;
 }
+.main-nav_item a {
+    color: white;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;/*para rmeover lineas que esta en el texto*/
+}
