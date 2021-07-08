@@ -22,3 +22,8 @@
 .main-nav_item a:active {
     color:red;
 }
+
+/*pseudoelemento*/
+.main-nav_item a::after {
+    content: " | ";
+}
