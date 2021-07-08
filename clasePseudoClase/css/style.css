@@ -18,3 +18,7 @@
 .main-nav_item a:hover { 
     color:blue; /*cmabio de color del texto*/
 }
+
+.main-nav_item a:active {
+    color:red;
+}
