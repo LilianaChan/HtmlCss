@@ -2,7 +2,7 @@
     margin-top: 10px;
     list-style: none; /*remueve puntos de lista desordenada*/
     padding-left: 0;
-    background-color: aqua; /*cambiar color de fondo*/
+    background-color: rgb(21, 93, 93); /*cambiar color de fondo*/
 }
 .main-nav_item{
     display: inline-block;
@@ -12,4 +12,9 @@
     padding: 5px;
     border-radius: 2px;
     text-decoration: none;/*para rmeover lineas que esta en el texto*/
+}
+
+/*pseudo clases*/
+.main-nav_item a:hover { 
+    color:blue; /*cmabio de color del texto*/
 }
