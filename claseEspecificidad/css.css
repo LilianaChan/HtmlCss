@@ -25,4 +25,11 @@ h1{
 
 #main-nav li{
     display: inline-block;
+    background-color: royalblue;
+    padding: 5px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+#main-nav .blog {
+    background-color: red;
 }
