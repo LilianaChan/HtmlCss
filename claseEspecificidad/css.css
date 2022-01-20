@@ -10,26 +10,24 @@ h1{
     margin-bottom: 10px;
     
 }
-#page-title{
-    font-family: Arial, Helvetica, sans-serif  /*se llman 3 pot si la computadora no tiene instalado la fuente*/
-}
+
 .title{
     font-size: 18px;
     font-family: monospace;
 }
-#main-nav{
+.nav{
     margin-top: 10px;
     list-style-type: none;
     margin-left: 0px;
 }
 
-#main-nav li{
+.nav li{
     display: inline-block;
     background-color: royalblue;
     padding: 5px;
     border-radius: 4px;
     text-decoration: none;
 }
-#main-nav .blog {
+.nav .blog {
     background-color: red;
 }
