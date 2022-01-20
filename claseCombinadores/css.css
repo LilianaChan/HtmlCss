@@ -1,6 +1,10 @@
 /* h2 + p {
     color: rebeccapurple;
 } */
-h2 ~ p {
+/* h2 ~ p {
     color: red;
+} */
+
+div > p {
+    color:green;
 }
