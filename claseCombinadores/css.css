@@ -5,6 +5,10 @@
     color: red;
 } */
 
-div > p {
+/* div > p {
     color:green;
+} */
+
+div p {
+    color: grey;
 }
